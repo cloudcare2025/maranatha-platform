@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": null,
+  "cycles": [],
+  "performance": {
+    "buildTime": null,
+    "bundleSize": null,
+    "lighthouseScores": null
+  },
+  "codeQuality": {
+    "typescriptErrors": null,
+    "eslintErrors": null,
+    "testCoverage": null
+  },
+  "content": {
+    "sermonsCount": 0,
+    "seriesCount": 0,
+    "speakersCount": 0
+  }
+}

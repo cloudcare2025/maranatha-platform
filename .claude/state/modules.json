@@ -1,0 +1,25 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": null,
+  "features": {},
+  "components": {},
+  "routes": {},
+  "integrations": {
+    "sanity": {
+      "status": "planned",
+      "schemas": ["sermon", "series", "speaker", "topic", "page", "settings"]
+    },
+    "supabase": {
+      "status": "planned",
+      "tables": ["profiles", "watch_history", "favorites", "sermon_notes", "prayer_requests", "donations", "sermon_search_index"]
+    },
+    "cloudflare-stream": {
+      "status": "planned",
+      "features": ["upload", "playback", "analytics"]
+    },
+    "stripe": {
+      "status": "planned",
+      "features": ["one-time-giving", "recurring-giving", "webhooks"]
+    }
+  }
+}

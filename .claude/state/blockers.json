@@ -1,0 +1,42 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": null,
+  "blockers": [
+    {
+      "id": "branding-assets",
+      "title": "Church Branding Assets Needed",
+      "description": "Need logo, color palette, and typography choices from church leadership",
+      "severity": "medium",
+      "blocksPhase": "design",
+      "status": "open",
+      "createdAt": null
+    },
+    {
+      "id": "domain-decision",
+      "title": "Domain Name Decision",
+      "description": "Need to confirm domain: maranathabible.church or alternative",
+      "severity": "low",
+      "blocksPhase": "deployment",
+      "status": "open",
+      "createdAt": null
+    },
+    {
+      "id": "youtube-channel-id",
+      "title": "YouTube Channel ID",
+      "description": "Need exact channel ID for @mbc.chicago to run migration script",
+      "severity": "medium",
+      "blocksPhase": "content-migration",
+      "status": "open",
+      "createdAt": null
+    },
+    {
+      "id": "about-content",
+      "title": "About/Beliefs Page Content",
+      "description": "Need written content for About, Beliefs, Leadership, History pages",
+      "severity": "low",
+      "blocksPhase": "content",
+      "status": "open",
+      "createdAt": null
+    }
+  ]
+}
