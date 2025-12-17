@@ -2,7 +2,7 @@
   "name": "maranatha-platform",
   "version": "0.1.0",
   "private": true,
-  "packageManager": "pnpm@9.0.0",
+  "packageManager": "pnpm@9.15.9+sha512.76a82e2702e04e6ff2dbb1cba4893db35feb2bd58e3d66fa6ceffc4b36b2498134e7912d7cbdf72ef284efa5551d8bac498396899d846b5c13a25317ddfcd7fb",
   "scripts": {
     "dev": "turbo dev",
     "build": "turbo build",
